@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567007251551",
+    "firebase_url": "https://need-blood-26a5b.firebaseio.com",
+    "project_id": "need-blood-26a5b",
+    "storage_bucket": "need-blood-26a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567007251551:android:b3f4974d5fb210c8069fea",
+        "android_client_info": {
+          "package_name": "com.techscrewers.blood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567007251551-ri80ts6u9ksd4te9tareds98q18pn5cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswMxsggsxocymX4zGqlpxVH9Xq5JvnP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567007251551-ri80ts6u9ksd4te9tareds98q18pn5cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
